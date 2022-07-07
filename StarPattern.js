@@ -1,3 +1,5 @@
+
+/*new branch*/
 var number = 5;
 for (var i = 0; i < number; i++) {
   let str = [];
@@ -13,7 +15,7 @@ for (var i = 0; i < number; i++) {
 console.log('-----------------------');
 var no = 6;
 for (let i = 0; i < no; i++) {
-  //console.log('*');
+  //console.log('1*');
   let str1 = [];
   for (let j = 0; j < i; j++) {
     str1 += '*';
